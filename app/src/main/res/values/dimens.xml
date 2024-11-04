@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--TODO: Overall dimensions-->
+    <dimen name="layout_width">0dp</dimen>
+    <dimen name="minHeight">48dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <!--TODO: Start Button-->
+    <dimen name="start_button_textSize">25sp</dimen>
+    <!--TODO: Frame background-->
+    <dimen name="frame_radius">20dp</dimen>
+    <dimen name="frame_width">2dp</dimen>
+    <!--TODO: CardView-->
+    <dimen name="margin_CardVieW">8dp</dimen>
+    <dimen name="cardCornerRadius">6dp</dimen>
+    <dimen name="cardElevation">6dp</dimen>
+    <!--TODO: Item Layout-->
+    <dimen name="margin_image_layout">10dp</dimen>
+    <dimen name="image_layout_radius">100dp</dimen>
+    <dimen name="name_shop_TextSize">20sp</dimen>
+    <dimen name="price_shop_TextSize">16sp</dimen>
+    <dimen name="name_basket_TextSize">20sp</dimen>
+    <dimen name="price_basket_TextSize">13sp</dimen>
+    <dimen name="count_basket_TextSize">16sp</dimen>
+    <dimen name="totalPrice_basket_TextSize">16sp</dimen>
+    <!--TODO: Basket Fragment-->
+    <dimen name="totalExpensesTitleTV_TextSize">30sp</dimen>
+    <dimen name="totalExpensesTV_TextSize">20sp</dimen>
+    <!--TODO: Alter Dialog-->
+    <dimen name="image_alterDialog_dimens">150dp</dimen>
+    <dimen name="priceAlterDialog_TextSize">20sp</dimen>
+    <dimen name="alertDialog_button_textSize">30sp</dimen>
+    <!--TODO: Floating Action Button-->
+    <dimen name="floating_marginEnd">20dp</dimen>
+    <dimen name="floating_marginBottom">50dp</dimen>
+    <dimen name="floating_basket_marginBottom">100dp</dimen>
+</resources>

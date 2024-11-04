@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Samojlov_AV_Homework_Module_15_number_9_Koala</string>
+    <!--TODO Menu-->
+    <string name="toolbar_title">Продовольственная корзина</string>
+    <string name="toolbar_subtitle">Mod. 15 № 9</string>
+    <string name="exit">Exit</string>
+    <string name="toast_exit">Приложение закрыто</string>
+    <!--TODO Main Activity-->
+    <string name="startButtonBT_Text">Начать покупки</string>
+    <!--TODO Item Layout-->
+    <string name="nameShopTV_Hint">Наименование</string>
+    <string name="priceShopTV_Hint">цена</string>
+    <string name="countBasketTV_Hint">шт.</string>
+    <string name="totalPriceTV_Hint">ИТОГО</string>
+    <!--TODO Basket Fragment-->
+    <string name="totalExpensesTitleTV_Text">ИТОГО:</string>
+    <string name="totalExpensesTV_Hint">0.00</string>
+    <string name="payment_toast">Корзина оплачена</string>
+    <!--TODO Alter Dialog-->
+    <string name="priceAlterDialogTV">цена</string>
+    <string name="countAlertDialogTV_Hint">шт.</string>
+    <string name="minusButtonAlertDialogBT_Text">-</string>
+    <string name="plusButtonAlertDialogBT_Text">+</string>
+    <string name="store_fragment_positive_button_alert_dialog">В корзину</string>
+    <string name="alert_dialog_negative_button">Отмена</string>
+    <string name="alter_dialog_neutral_button_toast">%1$s удален</string>
+    <string name="alter_dialog_neutral_text">Удалить</string>
+    <string name="basket_alter_dialog_positive_burron_text">Принять</string>
+    <string name="basket_alter_dialog_neutral_burron_text">Удалить из корзины</string>
+    <!--TODO Cheque Fragment-->
+    <string name="deleteButton_toast">Чек удалён</string>
+    <string name="totalExpensesCheque_null_text">0.00</string>
+</resources>
